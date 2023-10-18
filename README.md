@@ -1,5 +1,5 @@
 # ZWO
-Codes used in the a ZWO project
+Codes used in a ZWO project
 
 **RcodeBoxplotApart.R codes for graph**
 
